@@ -13,5 +13,10 @@ sur des données bidon
 
 [tuto 2](https://colab.research.google.com/drive/1320zTNDLjUrpkVLFMNwXmFKYne1E5zmf?usp=sharing)
 
+### Un site de tutos 
+
+Pour plein de détails intéressants
+[https://www.learnpytorch.io/](https://www.learnpytorch.io/)
+
 
 
