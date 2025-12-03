@@ -23,3 +23,5 @@ les NN classiques : [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
 
 Pour faire un réseau simple from scratch, avec plein de détails d'implémentation intéressants sur **pytorch** : [https://ichi.pro/fr/comprendre-pytorch-avec-un-exemple-un-tutoriel-etape-par-etape-142920934772366](https://ichi.pro/fr/comprendre-pytorch-avec-un-exemple-un-tutoriel-etape-par-etape-142920934772366)
 
+## Lucidrains
+visiblement, un dépot au top sur l'état de l'art concernant les réseaux de neurones : [https://github.com/lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
